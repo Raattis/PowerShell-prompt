@@ -9,8 +9,8 @@ Oh My Posh was annoyingly slow and I just wanted a colorful prompt that stands o
 * Paste in the contents of `Microsoft.PowerShell_profile.ps1`
 * Save the file, restart PowerShell, enjoy.
 
+# License?
 Copied and further modified from:
 * Git branch https://stackoverflow.com/questions/1287718/how-can-i-display-my-current-git-branch-name-in-my-powershell-prompt
 * Colors https://stackoverflow.com/questions/64203354/set-the-text-color-in-powershell
-
-I don't know what that makes the license. Public Domain?  I don't care.
+I don't know what that makes the license. Public Domain? MIT? Who knows.
