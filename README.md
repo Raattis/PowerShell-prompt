@@ -1,7 +1,7 @@
 # PowerShell prompt
 Colorful and git-enabled prompt for PowerShell
 
-Oh My Posh was annoyingly slow and I just wanted a colorful prompt that stands out from output.
+oh-my-posh was annoyingly slow and I just wanted a colorful prompt that stands out from output.
 
 # Usage 
 * In PowerShell type `notepad $PROFILE`
